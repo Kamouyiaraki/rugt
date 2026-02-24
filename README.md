@@ -1,2 +1,1 @@
-# rugt
-Really Useful Genomics Tools
+# Really Useful Genomics Tools
