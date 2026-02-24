@@ -37,6 +37,7 @@ python get_taxids.py -i taxids2check.csv -c Current_Name`
 ```
 
 **Output:** 
-(1) csv of Taxonomic_name and taxID only 
-(2) csv of null taxIDs (i.e., taxonomic_name with no tax IDs)
-(3) csv of original input spreadsheet with taxIDs (where found) added as a new column. 
+
+  1) csv of Taxonomic_name and taxID only 
+  2) csv of null taxIDs (i.e., taxonomic_name with no tax IDs)
+  3) csv of original input spreadsheet with taxIDs (where found) added as a new column. 
