@@ -45,7 +45,7 @@ To check if a zipped file is corrupted
 ```
 
 ### For dealing with compressed files:
-####Extract only specific files from tarfile
+#### Extract only specific files from tarfile
 
 `tar -xzf nonpareil_out.tar.gz --wildcards --no-anchored '.npo'`
 
