@@ -1,7 +1,11 @@
 ### summarising BUSCO outputs
 
+A short python script to summarise all BUSCO outputs nested directory. 
 
-
+**Example usage**
+```
+python summarise_busco.py --input_dir busco_out/ --output busco_summary.csv
+```
 
 ### Summarising fastp outputs from JSON
 
